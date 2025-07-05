@@ -1,5 +1,7 @@
 # AngleGuard AntiCheat API
 
+[![](https://jitpack.io/v/l4oyst0rm/AngleGuardAPI.svg)](https://jitpack.io/#l4oyst0rm/AngleGuardAPI)
+
 Welcome to the **AngleGuardAPI** documentation! Below, you’ll find instructions for integrating the AngleGuardAPI into your project using **Maven** or **Gradle**. The API is designed to work seamlessly with the AngleGuard AntiCheat system, ensuring compatibility and ease of use.
 
 ## Including AngleGuardAPI in Your Project

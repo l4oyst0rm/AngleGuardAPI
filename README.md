@@ -61,11 +61,13 @@ dependencies {
 
 ## 🛠 Step-by-Step: Build Your Own Addon
 
+- Main class use this name "Main" Don't use your custom name!
+
 ### 1️⃣ Create `plugin.yml`
 
 ```yaml
 name: ExampleAddon
-main: dev.myaddon.Main
+main: dev.myaddon.AddonMain
 version: 1.0
 api-version: 1.20
 depend: [AngleGuard]

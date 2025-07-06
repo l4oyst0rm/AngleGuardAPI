@@ -40,7 +40,7 @@ Once loaded, it gives developers full control to:
     <dependency>
         <groupId>com.github.l4oyst0rm</groupId>
         <artifactId>AngleGuardAPI</artifactId>
-        <version>1.0.0-BETA</version>
+        <version>PUT_VERSION</version>
     </dependency>
 </dependencies>
 ```
@@ -53,7 +53,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.github.l4oyst0rm:AngleGuardAPI:1.0.0-BETA'
+    implementation 'com.github.l4oyst0rm:AngleGuardAPI:PUT_VERSION'
 }
 ```
 

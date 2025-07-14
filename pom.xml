@@ -6,7 +6,7 @@
 
     <groupId>dev.l4oyst0rm</groupId>
     <artifactId>angleguard-api</artifactId>
-    <version>1.0.0-BETA</version>
+    <version>1.0.2</version>
 
     <build>
         <finalName>AngleGuardAPI</finalName>

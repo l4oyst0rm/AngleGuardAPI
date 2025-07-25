@@ -4,6 +4,7 @@ import dev.l4oyst0rm.AngleGuardAPI.api.check.CheckAPI;
 import dev.l4oyst0rm.AngleGuardAPI.api.command.CommandAPI;
 import dev.l4oyst0rm.AngleGuardAPI.api.handlers.PunishmentHandler;
 import org.bukkit.entity.Player;
+import org.bukkit.plugin.Plugin;
 
 public interface AngleGuardAPI {
     void registerCheck(CheckAPI check);
@@ -12,6 +13,6 @@ public interface AngleGuardAPI {
     void executePunishment(Player player, String punishmentId);
     int getViolation(Player player, String checkName);
     void logger(String string);
-    // Command API
     CommandAPI getCommandAPI();
+    Plugin getPlugin();
 }
